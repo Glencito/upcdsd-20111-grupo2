@@ -1,0 +1,5 @@
+Sistema de Gestion de Ventas
+
+En la actualidad, nuestra fuerza de ventas viaja constantemente al interior del pais visitando a nuestros clientes para tomar sus pedidos. Para realizar dicha función deberàn contar con información actualizada (Stock, Lista de Precios, Situación Crediticia, etc). Para ello, contará con laptop las cuales deberán actualizar en forma constante.En la sede central (Lima)se encuentra un servidor Power 7 de IBM con S.O V7.0 y base de datos DB2 que sirve de plataforma al software de gestión administrativa denominada Speed400 que da soporte a toda la organización. Por tanto, lso dispòsitivos deberán establecer comunicación con el servidor principal para actualizar y/o dejar los pedidos de sus clientes.
+
+Mas informacion [Aquí](https://docs.google.com/document/d/1HAPj45cABQGgTtZ0u1zEAo8vcH43QVqidnXxOQySMac/edit?hl=en_US#)
